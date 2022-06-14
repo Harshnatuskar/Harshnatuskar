@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshnatuskar
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in .....
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :@harshnatuskar10@gmail.com

@@ -13,7 +13,7 @@ I am a India-based Ui designer and frontend developer building clean and easy to
 </p>
 <br>
 **`Tools`**
-<img align="left" alt="figma" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg]" />
+<img align="left" alt="figma" width="30px" style="padding-right:10px;" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg]](https://cdn-icons-png.flaticon.com/128/5968/5968705.png)" />
  
 
  

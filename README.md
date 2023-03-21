@@ -2,21 +2,39 @@
 
 **`UI designer x frontend developer`**
 
-I am a India-based Ui designer and frontend developer building clean and easy to use user interfaces 
+ I am a India-based Ui designer and frontend developer building clean and easy to use user interfaces
+</br>
+<div>
+    <a href="https://www.behance.net/harshnatuskar">
+    <img src="https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white ">
+    </a>
+    <a href="https://www.linkedin.com/in/harsh-natuskar-74abb9220/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white ">
+    </a>
+    
+</div>
 
-<p align="left">
- <a href=" https://www.behance.net/harshnatuskar">
-  <img style="padding-right:10px;" title="Behance" src="https://imgs.search.brave.com/NnoBpkKJ2dsxcFUtSjDV1WE1UDYk8OFl8t5s0SKblnM/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/U0RGbDVyX2dkODBO/YUEyTVNzTzVRSGFI/YSZwaWQ9QXBp"   width="32">
- </a>
- <a href="https://www.linkedin.com/in/harsh-natuskar-74abb9220/" >
-  <img title="LinkedIn" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/145/145807.png "  width="32">
- </a>
-</p>
-<br>
-**`Tools`**
-<img align="left" alt="figma" width="30px" style="padding-right:10px;" src="[[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg]](https://cdn-icons-png.flaticon.com/128/5968/5968705.png)](https://cdn-icons-png.flaticon.com/512/5968/5968705.png)" />
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C " width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"  width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github"  width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"  width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"  width="30"  height="30"/>&nbsp;
+  <img src="https://files.brandlogos.net/svg/6pHg9QdYGc/Notion-OKmPLwscc_brandlogos.net.svg" title="Notion" alt="Notion"  width="30"  height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux"  width="30"  height="30"/>&nbsp;
+</div>
+ 
+</br>
 
-
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshnatuskar&theme=onedark&border_color=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ </br>
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnatuskar&theme=onedark&borderhide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
  
 
  

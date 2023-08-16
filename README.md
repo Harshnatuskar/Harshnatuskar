@@ -1,6 +1,6 @@
 
 
-**`UI designer x frontend developer`**
+**`frontend developer`**
 
 
  

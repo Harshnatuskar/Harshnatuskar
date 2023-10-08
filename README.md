@@ -1,8 +1,1 @@
 
-
-**`frontend developer`**
-
-
- 
-
-  
